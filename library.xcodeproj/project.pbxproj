@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0221C5FD255E7BA151CC0878 /* Pods_library.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A7C9C11C77FE13AEF0AAA2D7 /* Pods_library.framework */; };
 		BB91FD2823D2620800EC74AF /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = BB91FD2723D2620800EC74AF /* GoogleService-Info.plist */; };
+		BB94F12E23D78454009AFC2D /* .gitignore.rtf in Resources */ = {isa = PBXBuildFile; fileRef = BB94F12D23D78454009AFC2D /* .gitignore.rtf */; };
 		BBADFCCC23D25FA9000E5346 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBADFCCB23D25FA9000E5346 /* AppDelegate.swift */; };
 		BBADFCCE23D25FA9000E5346 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBADFCCD23D25FA9000E5346 /* SceneDelegate.swift */; };
 		BBADFCD023D25FA9000E5346 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBADFCCF23D25FA9000E5346 /* ViewController.swift */; };
@@ -21,6 +22,7 @@
 		15C3732D7098002375D641F0 /* Pods-library.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-library.debug.xcconfig"; path = "Target Support Files/Pods-library/Pods-library.debug.xcconfig"; sourceTree = "<group>"; };
 		A7C9C11C77FE13AEF0AAA2D7 /* Pods_library.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_library.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB91FD2723D2620800EC74AF /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		BB94F12D23D78454009AFC2D /* .gitignore.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = .gitignore.rtf; sourceTree = "<group>"; };
 		BBADFCC823D25FA9000E5346 /* library.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = library.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBADFCCB23D25FA9000E5346 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BBADFCCD23D25FA9000E5346 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				BBADFCD423D25FA9000E5346 /* Assets.xcassets */,
 				BBADFCD623D25FA9000E5346 /* LaunchScreen.storyboard */,
 				BBADFCD923D25FA9000E5346 /* Info.plist */,
+				BB94F12D23D78454009AFC2D /* .gitignore.rtf */,
 			);
 			path = library;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 				BB91FD2823D2620800EC74AF /* GoogleService-Info.plist in Resources */,
 				BBADFCD523D25FA9000E5346 /* Assets.xcassets in Resources */,
 				BBADFCD323D25FA9000E5346 /* Main.storyboard in Resources */,
+				BB94F12E23D78454009AFC2D /* .gitignore.rtf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
